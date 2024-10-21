@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Егоров Борис</h1>
+      <ul>
+        <li>люблю играть в видеоигры</li>
+        <li>плаваю</li>
+        <li>делаю сайты</li>
+        <li>делаю арты</li>
+        <li>псевдоним: firelineron/firelinegdw</li>
+        </ul>
+      <p>Примеры работ:</p>
+      <ul>
+        <li><a href=""></a></li>
+      </ul>
+      <img class="firein" src="https://i.pinimg.com/736x/80/6f/36/806f366fa0d096bcc0b37464fba1c146.jpg"
+      width="600px" height="300px">
+      <img class="firein" src="https://cdn.culture.ru/images/c8612637-bc0f-560b-b1d7-adb9c22956b8" width="600px" height="300px"/>
+    </main>
+    <footer>
+      <a class="social" href="https://gamejolt.com/@firelinegdw"><img src="https://avatars.mds.yandex.net/i?id=b687213379b58d597137caea2e0d3e25_l-4877628-images-thumbs&n=13" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
