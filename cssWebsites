@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+
+
+h1 {
+    text-align: center;
+    border:3px inset red;
+    border-radius:50px;
+    background-image:linear-gradient(to right, darkred, red, orange, darkorange);
+}
+
+h1:hover {
+    box-shadow: 10px 5px 2px 0 crimson;
+    transition:2s linear;
+}
+
+.firein {
+    display:flex;
+    float:right;
+    border:2px double red;
+    margin:5px;
+}
+
+.link-header {
+    border:2px solid aquamarine;
+    text-decoration:none;
+    padding:5px;
+    border-radius:10px;
+    background-image:linear-gradient(yellow, white, aquamarine);
+}
+
+.link-header:focus {
+    box-shadow: 5px 5px 0 0 purple;
+}
+
+.social:hover {
+    border: 10px double green;
+}
+
+.social {
+    margin-left:290px;
+}
